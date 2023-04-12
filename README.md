@@ -1,7 +1,7 @@
 Scripts Required - ox_lib and xsound
 
 
-Preview - https://youtu.be/kSexqzEkRew
+Preview - https://youtu.be/XTjU9x07WeY
 
 Tebex - https://scriptify-store.tebex.io/
 
