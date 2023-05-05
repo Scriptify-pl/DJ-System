@@ -1,5 +1,4 @@
-Scripts Required - ox_lib and xsound
-
+Scripts Required - ox_lib and xsound.
 
 Preview - https://youtu.be/XTjU9x07WeY
 
